@@ -19,6 +19,7 @@ body {
     background: white;
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 div.documentwrapper {
